@@ -11,7 +11,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 
-st.image(r"C:\Users\G0d\Pictures\inno logo png.png")
+st.image(r"inno logo png.png")
 # Set the title of the app
 st.title("Decision Surface Visualization")
 
